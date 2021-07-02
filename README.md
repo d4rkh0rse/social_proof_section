@@ -29,8 +29,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/social-proof-section-YKWwnVYLA )
+- Live Site URL: [live site](https://social-card-proof-section.netlify.app/)
 
 ### Built with
 
